@@ -18,3 +18,4 @@ t/blitzobject.t
 t/blitzlogin.t
 t/blitzexecute.t
 t/blitzvalidate.t
+META.yml                                 Module meta-data (added by MakeMaker)
